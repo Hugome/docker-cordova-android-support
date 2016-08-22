@@ -1,0 +1,1 @@
+Docker cordova based on docker-cordova + Android Support
